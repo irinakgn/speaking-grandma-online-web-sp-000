@@ -16,6 +16,7 @@
 def speak_to_grandma(m)
   if m == 'I LOVE YOU GRANDMA!'
     return 'I LOVE YOU TOO PUMPKIN!'
+<<<<<<< HEAD
   elsif m == 'Hi Nana, how are you?'
     return 'HUH?! SPEAK UP, SONNY!'
   elsif m == 'Hi!'
@@ -23,4 +24,7 @@ def speak_to_grandma(m)
   elsif m == 'WHAT DID YOU EAT TODAY?' || m === 'WHAT?'
   return 'NO, NOT SINCE 1938!'
 end
+=======
+  end
+>>>>>>> df6ba5a4dbed78c1f952ccdf7bd749b1983138eb
 end
